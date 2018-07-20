@@ -1,0 +1,1 @@
+Destructeur d'historique
